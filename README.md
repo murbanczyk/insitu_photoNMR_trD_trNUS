@@ -14,3 +14,7 @@ The Arduino control was developed by Franz F. Westermair
 
 
 The multizg-trends-trdosy_ilumin.py  was developed by Mateusz Urbańczyk
+
+
+
+ACKNOWLEDGMENT: National Science Centre – SONATA – 2022/47/D/ST4/00846
